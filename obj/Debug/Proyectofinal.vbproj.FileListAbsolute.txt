@@ -1,0 +1,15 @@
+C:\Users\morel\source\repos\Proyectofinal\bin\Debug\Proyectofinal.exe.config
+C:\Users\morel\source\repos\Proyectofinal\bin\Debug\Proyectofinal.exe
+C:\Users\morel\source\repos\Proyectofinal\bin\Debug\Proyectofinal.pdb
+C:\Users\morel\source\repos\Proyectofinal\bin\Debug\Proyectofinal.xml
+C:\Users\morel\source\repos\Proyectofinal\obj\Debug\Proyectofinal.vbproj.AssemblyReference.cache
+C:\Users\morel\source\repos\Proyectofinal\obj\Debug\Proyectofinal.Form1.resources
+C:\Users\morel\source\repos\Proyectofinal\obj\Debug\Proyectofinal.Resources.resources
+C:\Users\morel\source\repos\Proyectofinal\obj\Debug\Proyectofinal.vbproj.GenerateResource.cache
+C:\Users\morel\source\repos\Proyectofinal\obj\Debug\Proyectofinal.vbproj.CoreCompileInputs.cache
+C:\Users\morel\source\repos\Proyectofinal\obj\Debug\Proyectofinal.exe
+C:\Users\morel\source\repos\Proyectofinal\obj\Debug\Proyectofinal.xml
+C:\Users\morel\source\repos\Proyectofinal\obj\Debug\Proyectofinal.pdb
+C:\Users\morel\source\repos\Proyectofinal\obj\Debug\Proyectofinal.Proveedores.resources
+C:\Users\morel\source\repos\Proyectofinal\obj\Debug\Proyectofinal.Clientes.resources
+C:\Users\morel\source\repos\Proyectofinal\obj\Debug\Proyectofinal.Administradores.resources
